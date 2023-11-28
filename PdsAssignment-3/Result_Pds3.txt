@@ -1,0 +1,5 @@
+1. The mean and maximum of the population are higher than those of the sample.
+
+2. The population percentile is higher than the sample percentile, as far as I can tell.
+
+3. There is a tiny distinction between bootstrap and population statistics.
